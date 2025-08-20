@@ -1,5 +1,7 @@
 # Investigation-of-data-breach-abc-Securebank
+
 Investigation of a Data Breach on a Renowned Website
+
  # Objective: To investigate a simulated data breach, identify its source, assess the scope, and propose remediation strategies.
 
 Key Highlights:
@@ -18,7 +20,7 @@ Key Highlights:
  
  5. Communication: Notified stakeholders and customers, provided fraud monitoring.
 
-⏺ Challenges:
+• Challenges:
 
  1. Delayed detection due to insufficient monitoring
 
@@ -29,4 +31,5 @@ Key Highlights:
 • Deliverables:
 
  1. Incident report and post-incident recommendations
+
  2. Long-term mitigation plan, including automated patch management and employee training
