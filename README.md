@@ -2,7 +2,9 @@
 
 Investigation of a Data Breach on a Renowned Website
 
- # Objective: To investigate a simulated data breach, identify its source, assess the scope, and propose remediation strategies.
+# Objective:
+
+To investigate a simulated data breach, identify its source, assess the scope, and propose remediation strategies.
 
 Key Highlights:
 
@@ -33,3 +35,9 @@ Key Highlights:
  1. Incident report and post-incident recommendations
 
  2. Long-term mitigation plan, including automated patch management and employee training
+
+# License 
+
+This repository is licensed under the terms of the LICENSE file. Please review it for details on usage and distribution.
+
+Feel free to explore the tasks and reach out for any queries or collaboration opportunities!
